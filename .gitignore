@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+db.sqlite3
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React / Next.js
+.next/
+out/
+coverage/
+
+# Dataset Files
+datasets/
+data/
+*.csv
+*.xlsx
+*.jsonl
+*.parquet
+
+# Large Model Files
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+
+# Media Files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.zip
+*.rar
+*.7z
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Generated files
+outputs/
+results/
+artifacts/
+
+# TensorFlow / PyTorch checkpoints
+checkpoints/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.bak
+*.swp
